@@ -1,4 +1,1 @@
-"# accenture" 
-editing
-second trial
-third trial
+exercises on Java
